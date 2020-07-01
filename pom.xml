@@ -136,7 +136,7 @@
     <mysql.version>5.1.21</mysql.version>
     <netty.http.version>0.16.0</netty.http.version>
     <netty.version>3.6.6.Final</netty.version>
-    <quartz.version>2.2.0</quartz.version>
+    <quartz.version>2.3.2</quartz.version>
     <resteasy.version>3.0.8.Final</resteasy.version>
     <rs-api.version>2.0</rs-api.version>
     <scala.version>2.10.4</scala.version>

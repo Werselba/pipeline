@@ -133,7 +133,7 @@
     <logback.version>1.0.9</logback.version>
     <mockftp.version>2.6</mockftp.version>
     <mockito.version>1.9.5</mockito.version>
-    <mysql.version>5.1.21</mysql.version>
+    <mysql.version>8.0.28</mysql.version>
     <netty.http.version>0.16.0</netty.http.version>
     <netty.version>3.6.6.Final</netty.version>
     <quartz.version>2.2.0</quartz.version>
